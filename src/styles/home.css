@@ -1,0 +1,6 @@
+.horizontalScroll{
+    text-align: center;
+    justify-content: space-around;
+    overflow: auto;
+    white-space: nowrap;
+}
